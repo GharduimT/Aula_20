@@ -20,3 +20,12 @@ try:
 except Exception as e:
     print(f"Erro ao obter dados: {e}")
     exit()
+
+# Inicando a obtenção das medidas fundamentadas em estatística descritiva
+try:
+    print('Obtendo informações sobre padrão das ocorrências de Estelionato...')
+
+    array_
+except Exception as e:
+    print(f'Erro ao obter informações sobre padrão de roubo de veículos: {e}')
+    exit()
