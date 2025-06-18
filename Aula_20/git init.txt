@@ -1,0 +1,25 @@
+git init
+
+git branch -m master main
+
+git config user.name GharduimT
+
+git config user.email Gabriel.harduim.ti@gmail.com
+
+$ git remote add origin https://github.com/GharduimT/AULA_18.git
+
+git pull origin main
+
+rm -rf venv
+https://www.ispdados.rj.gov.br/Arquivos/BaseDPEvolucaoMensalCisp.csv
+
+>>>>ambiente virtual<<<<<<<<
+python -m venv
+source ./venv/Scripts/activate
+
+
+
+pip install pandas SQLAlchemy (para instalaar as bibliotecas sql)
+
+
+
