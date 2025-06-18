@@ -130,6 +130,7 @@ try:
     print(f"Variancia: {variancia}")
     print(f"Distancia da Medida (variancia): {distancia_var_media}")
     print(f"Desvio Parão: {desvio_padrão}")
+    print(f"Coeficiente de Variação: {coef_variacao}")
 
 
     # #### OUTLIERS

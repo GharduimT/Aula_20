@@ -10,7 +10,9 @@
 *.userosscache
 *.sln.docstates
 venv
-
+.csv
+csv
+BaseDPEvolucaoMensalCisp(3).csv
 # User-specific files (MonoDevelop/Xamarin Studio)
 *.userprefs
 
